@@ -2,6 +2,15 @@
 
 Background Tracks is a customizable ambient sound mixer built with Python and Tkinter. It allows users to mix and loop natural soundscapes like rain, birds, stream, and campfire — perfect for focus, relaxation, or sleep.
 
+DOWNLOAD THE WIDNOWS APP HERE
+
+
+<img width="909" height="797" alt="image" src="https://github.com/user-attachments/assets/950a4c3d-c45c-43c6-8cc9-c90527bd30d0" />
+
+
+
+
+
 ✨ Features
 
 🎚 Mix up to 6 ambient sound categories
